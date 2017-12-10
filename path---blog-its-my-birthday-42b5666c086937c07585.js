@@ -1,0 +1,2 @@
+webpackJsonp([0xe1291416a7a8],{563:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Its my birthday, Its My birth day I'm gonna spend my money</p>",timeToRead:1,excerpt:"Its my birthday, Its My birth day I'm gonna spend my money",frontmatter:{title:"Its My Birthday",cover:"https://unsplash.it/400/300/?random?Birthday",date:"25/02/2017",category:"Fun",tags:["other"]},fields:{slug:"/its-my-birthday"}}},pathContext:{slug:"/its-my-birthday"}}}});
+//# sourceMappingURL=path---blog-its-my-birthday-42b5666c086937c07585.js.map
